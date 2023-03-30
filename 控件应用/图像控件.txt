@@ -1,0 +1,35 @@
+============事件=============
+BeforeDragOver
+	
+
+
+MouseDowen
+	鼠标点击控件时，运行
+
+
+MouseUp
+	鼠标移走或者不点击时，运行
+
+GetFocus
+
+LostFocus
+
+
+MouseMove
+	鼠标移动到控件时，运行
+
+Error
+
+BeforeDropOrPaste
+
+
+================属性=====================
+AutoLoad
+	打开工作簿是否加载控件。
+
+
+
+
+
+
+
